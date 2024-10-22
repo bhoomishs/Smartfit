@@ -1,7 +1,6 @@
 *** Settings ***
 Library     SeleniumLibrary
 Library    XML
-Library    Dialogs
 Library    ../Test_data/setup.py
 Resource    ../settings/Resources_file.robot
 
