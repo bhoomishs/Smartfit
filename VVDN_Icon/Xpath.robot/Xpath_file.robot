@@ -48,7 +48,7 @@ ${System_settings}    //span[text()='System Settings']
 
 
 ${homepage_page}     //h1[text()=' Home ']
-${Customers_page}    //h1[text()=' Customers ']
+${Customers_page}    //span[text()='Details']
 ${Assets_page}       //h1[text()=' Assets ']
 ${Device_profile_page}   //span[text()='Device profiles']
 ${Devices_page}    (//span[text()='Devices'])[2]
